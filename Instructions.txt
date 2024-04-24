@@ -1,0 +1,5 @@
+dataset_gen_three_d    : generates a parquet file for 3d ball trajectories
+dataset_gen_two_d      : generates a plot of random 2d points in the 2d working range
+model_train            : gives the code for training the models
+reward_comparison      : compares the model based on euclidean distance
+visual_test            : gives a visual representation of how the model moves
